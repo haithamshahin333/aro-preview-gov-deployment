@@ -1,5 +1,8 @@
 # aro-preview-gov-deployment
 
+### [Deploy ARO](https://docs.microsoft.com/en-us/azure/openshift/tutorial-create-cluster)
+### [Networking Config](https://docs.microsoft.com/en-us/azure/openshift/concepts-networking#whats-new-in-openshift-45)
+
 1. Login to Azure Gov Account:
 
 ```
