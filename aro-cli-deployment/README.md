@@ -50,7 +50,7 @@ az network vnet subnet update \
 
 ```bash
 az ad sp create-for-rbac \
-    --name ServicePrincipalAroCliTestTwo \
+    --name aroServicePrincipal \
     --skip-assignment
 ```
 
