@@ -69,3 +69,5 @@ set +a
 ```bash
 ./deploy-aro-cli.sh
 ```
+
+3. [Update DNS](https://docs.microsoft.com/en-us/azure/openshift/tutorial-create-cluster#prepare-a-custom-domain-for-your-cluster-optional)
