@@ -46,14 +46,6 @@ az network vnet subnet update \
     --disable-private-link-service-network-policies true
 ```
 
-4. Create a service principal (test if we need permissions or not)
-
-```bash
-az ad sp create-for-rbac \
-    --name aroServicePrincipal \
-    --skip-assignment
-```
-
 ## Deploy
 
 1. Specify your .env file:
